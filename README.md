@@ -14,6 +14,7 @@ Este ensayo explora dos casos de hibridación cultural en base a lo que planea L
 ## Re-descubriendo la hibridación: Google Maps - El mapa híbrido
 ![Captura Google Maps](https://github.com/atraversoa/PEC3_Manovich_Reloaded/blob/main/Captura_Google_Maps_parque_oeste.PNG)
 *Figura 1: Captura de Google Maps.*
+
 [Google Maps](https://maps.google.com), es una plataforma que representa la **hibridacion de medios** si lo miramos desde el punto de vista de Manovich, ya que convierte el software en una especie de impulsor cultural hibridando diversas prácticas culturales como:
 
 - La **cartografía tradicional**, mediante mapas topográficos, mapas políticos, carreteras, transporte público, etc..
@@ -33,8 +34,9 @@ La hibridación también opera desde la experiencia del usuario, ahora exploramo
 De alguna manera el software a reconfigurado los medios que antes existían, transformándolo en una experiencia en tiempo real. Además, desde la perspectiva de Manovich, esta dependencia cotidiana que desarrollamos hacia Google Maps ilustra cómo el software no solo transforma nuestras herramientas, sino que también reprograma nuestras prácticas sociales y cognitivas. Nuestra capacidad de orientarnos, comer o movernos por el mundo se ha externalizado en el dispositivo digital, integrando el mapa como una extensión de la memoria humana, dependiendo de ella.
 
 ## Re-descubriendo la hibridación: Adobe Photoshop - El laboratorio visual del software
+![Captura Google Maps](https://github.com/atraversoa/PEC3_Manovich_Reloaded/blob/main/Captura_Photoshop_interface.PNG)
+*Figura 2: Captura de Adobe Photoshop.*
 
-*Figura 2: Captura de Google Maps.*
 [Adobe Photoshop](https://www.adobe.com/es/products/photoshop.html), es una aplicación que demuestra cómo el software no solo simula, sino que también transforma los medios tradicionales como la fotografía, la pintura y el diseño gráfico.
 
 Para entender esto, hay que decir que Photoshop integra:
