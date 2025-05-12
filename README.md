@@ -2,7 +2,9 @@
 ---
 
 **Autor:** Antonio Traverso Ariza
+
 **Asignatura:** Cultura Digital
+
 **Fecha:** 12/05/2025
 
 ## Planteamiento
