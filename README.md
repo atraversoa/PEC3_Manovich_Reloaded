@@ -1,16 +1,16 @@
 # Google Maps y Photoshop como ejemplos de Hibridación bajo "las gafas de Manovich"
 ---
 
-Autor: Antonio Traverso Ariza
-
-Fecha: 12/05/2025
+**Autor:** Antonio Traverso Ariza
+**Asignatura:** Cultura Digital
+**Fecha:** 12/05/2025
 
 ## Planteamiento
 
 Este ensayo explora dos casos de hibridación cultural en base a lo que planea Lev Manovich en su libro *El software toma el mando* (2013). Los casos en cuestión, son Google Maps y Adobe Photoshop, integrando los medios tracicionales con el software.
 
 ## Re-descubriendo la hibridación: Google Maps - El mapa híbrido
-
+![Captura Google Maps](https://github.com/atraversoa/PEC3_Manovich_Reloaded/Captura_Google_Maps_parque_oeste.PNG)
 [Google Maps](https://maps.google.com), es una plataforma que representa la **hibridacion de medios** si lo miramos desde el punto de vista de Manovich, ya que convierte el software en una especie de impulsor cultural hibridando diversas prácticas culturales como:
 
 - La **cartografía tradicional**, mediante mapas topográficos, mapas políticos, carreteras, transporte público, etc..
