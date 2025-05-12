@@ -56,5 +56,7 @@ En conclusión, Adobe Photoshop no es solo una herramienta de edición visual, s
 
 ## Referencias y Bibliografía
 Manovich, Lev. "El software toma el mando" (2013). https://protected-content.ftp.uoc.edu/biblioteca/prestatgeries/epub/9788490640227.epub
+
 Gea Megías, Miguel. "Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto" (2022). https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing
+
 Adell Español, Ferran. "Fundamentos y evolución de la multimedia". https://cultura-digital.aula.uoc.edu/es/
