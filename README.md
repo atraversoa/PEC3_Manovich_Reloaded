@@ -24,7 +24,13 @@ Este ensayo explora dos casos de hibridación cultural en base a lo que planea L
 - La **interacción basada en software**, como el zoom, la búsqueda, los filtros en base al medio de transporte que vas a utilizar.
 - La **interacción social**, Añadiendo comentarios y experiencias sobre lugares y empresas que puedes compartir con el resto y que a su vez, pueden interactuarse mediante respuestas. Consiguiendo además insignias que te certifican en base a la cantidad de comentarios que aportas.
 
-Este cruce de funcionalidades, se pueden considerar una remezcla o remezcla profunda, ya que no se trata de una simple superposición de elementos, sino de una integración funcional gracias al software. El usuario ya no lee un mapa: lo puede explora, lo puede manipular, puede actuar sobre él. El mapa se vuelve un interfaz interactivo que gana más importancia que el propio contenido que tiene como mapa.
+> *"Siempre y cuando las piezas del contenido, los botones de la interfaz*
+> *o las técnicas estén simplemente agrupados y no integrados entre sí,*
+> *no necesitamos ningún término especial, como «remezcla profunda».*
+> *Para mí, esto sigue siendo una «remezcla» tal y como usamos la palabra hoy en día."*
+> *Manovich Lev (2013, El software toma el mando: (Parte 3, el software en acción - El diseño de los medios: Una remezclabilidad profunda)*
+
+Este cruce de funcionalidades, se pueden considerar una **remezcla o remezcla profunda**, ya que no se trata de una simple superposición de elementos, sino de una integración funcional gracias al software. El usuario ya no lee un mapa: lo puede explora, lo puede manipular, puede actuar sobre él. El mapa se vuelve un interfaz interactivo que gana más importancia que el propio contenido que tiene como mapa.
 A esto se le suma la capa social y comercial: negocios geolocalizados, reseñas, fotografías subidas por usuarios, horarios en tiempo real del transporte público. Todo esto genera una visión aumentada del entorno físico, mediada por datos y algoritmos.
 
 Google Maps representa un ejemplo de cómo el software se alinea con la [gobernanza algorítmica o Gobierno por algoritmos](https://es.wikipedia.org/wiki/Gobierno_por_algoritmos), donde nuestras decisiones cotidianas (donde quiero ir a comer, qué ruta tomo para viajar, dónde encontrar una farmacia), están cada vez más gobernadas y dirigidas por algoritmos que nos ayudan a elegir el por donde viajar o donde comer. Esa interacción a nivel de reseñas que nos ofrece el software, también suple o elimina la interacción física entre las personas, quedando todo a expensas del software. 
@@ -53,6 +59,10 @@ La hibridación también se manifiesta en la relación entre Photoshop y otras p
 
 Además, la aparición de funciones como el relleno automático por Inteligencia Artificial, el recorte inteligente y los filtros neuronales, nos hace entender que Photoshop evoluciona de manera constante hacia una automatización parcial de la creatividad, lo que plantea grandes preguntas de gran profundidad sobre quién es el autor de la obra, o de si la obra posee un carácter auténtico y genuino tal y como lo conocemos. Más si cabe cuando este relleno automático es fruto de técnicas genéricas de manipulación de datos.
 En conclusión, Adobe Photoshop no es solo una herramienta de edición visual, sino un dispositivo cultural que traduce, transforma y condiciona nuestras formas de ver y crear imágenes. De esta manera, Photoshop demuestra cómo el software puede convertirse en una fuerza modeladora de la cultura visual, estableciendo una comunicación directa entre el usuario y la máquina.
+
+## Conclusiones
+
+
 
 ## Referencias y Bibliografía
 Manovich, Lev. "El software toma el mando" (2013). https://protected-content.ftp.uoc.edu/biblioteca/prestatgeries/epub/9788490640227.epub
