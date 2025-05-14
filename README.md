@@ -1,15 +1,17 @@
-# Google Maps y Photoshop como ejemplos de Hibridación bajo "las gafas de Manovich"
+# Google Maps y Adobe Photoshop como ejemplos de Hibridación bajo "las gafas de Manovich"
 ---
 
 **Autor:** Antonio Traverso Ariza
 
 **Asignatura:** Cultura Digital
 
-**Fecha:** 12/05/2025
+**Fecha:** 16/05/2025
 
 ## Planteamiento
 
-Este ensayo explora dos casos de hibridación cultural en base a lo que planea Lev Manovich en su libro *El software toma el mando* (2013). Los casos en cuestión, son Google Maps y Adobe Photoshop, integrando los medios tradicionales con el software.
+Imagina abrir los ojos en una ciudad desconocida. No conoces sus calles, ni entiendes el idioma de sus señales, pero en tu mano tienes una aplicación que te ubica, te muestra dónde estás, y como llegar a donde quieres ir. Imagina ahora que haces una foto de ese lugar, y manipulas esa imagen, cambias su color, eliminas elementos, o añades elementos que no existen y nunca estuvieron allí. Todo esto es posible gracias a la hibridación del software.
+
+Este ensayo explora dos experiencias cotidianas (navegar con Google Maps o editar una foto con Adobe Photoshop), como dos casos de hibridación cultural en base a lo que planea Lev Manovich en su libro *El software toma el mando* (2013), donde se integra los medios tradicionales con el software.
 
 ## Re-descubriendo la hibridación: Google Maps - El mapa híbrido
 ![Captura Google Maps](https://github.com/atraversoa/PEC3_Manovich_Reloaded/blob/main/Captura_Google_Maps_parque_oeste.PNG)
@@ -54,7 +56,7 @@ Para entender esto, hay que decir que Photoshop integra:
 
 Gracias a esta integración funcional, el usuario ya no necesita dominar técnicas artesanales específicas, ya que la interfaz de Photoshop ofrece una variedad de herramientas de forma accesibles para modificar imágenes y otros elementos de manera profesional. Además, esta interface cultural está organizado por elementos culturales ya existentes y conocidos, como la imprenta, el lienzo en una pintura, o una fotografía. Los usuarios pueden comprender e interactuar con esta interface porque se basan en convenciones culturales ya conocidas. La interfaz de Photoshop incorpora elementos de la imprenta: la disposición estructurada de menús y paletas, el concepto de "página" o lienzo, y las herramientas para agregar texto hacen eco de las convenciones del mundo de los medios impresos. Esta integración de la imprenta hace que Photoshop sea accesible para los usuarios familiarizados con el diseño gráfico y la creación de documentos. Esto demuestra cómo Photoshop se basa en prácticas ya establecidas de la cultura impresa.
 
-Desde la óptica de Manovich, este nuevo sistema también implica una transformación, ya que las decisiones estéticas que antes se realizaban según el criterio de expertos, ahora se realizan con interfaces y algoritmos. Nuestros modos de creación visual ahora se ajustan a la lógica programada, por lo que el software no solo ha cambiado nuestras herramientas, sino que ahora nos permite crear o modificar imágenes, no quedando como un simple consumidor. El resultado final es de una fotografía cambiada, híbrida y digital.
+Desde la óptica de Manovich, este nuevo sistema también implica una transformación, ya que las decisiones estéticas que antes se realizaban según el criterio de expertos, ahora se realizan con interfaces y algoritmos. Nuestros modos de creación visual ahora se ajustan a la lógica programada, por lo que el software no solo ha cambiado nuestras herramientas, sino que ahora nos permite crear o modificar imágenes, no quedando como un simple consumidor. El resultado final es de una fotografía cambiada, híbrida y digital a la vez.
 
 La hibridación también se manifiesta en la relación entre Photoshop y otras plataformas. Las imágenes generadas en Photoshop circulan por redes sociales, plataformas de diseño web, impresión editorial, etc. Todo este ecosistema de software se convierte en el lugar donde ocurre toda la cultura visual.
 
