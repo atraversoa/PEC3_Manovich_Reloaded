@@ -28,6 +28,7 @@ Este ensayo explora dos casos de hibridación cultural en base a lo que planea L
 > *o las técnicas estén simplemente agrupados y no integrados entre sí,*
 > *no necesitamos ningún término especial, como «remezcla profunda».*
 > *Para mí, esto sigue siendo una «remezcla» tal y como usamos la palabra hoy en día."*
+> 
 > *Manovich Lev (2013, El software toma el mando: (Parte 3, el software en acción - El diseño de los medios: Una remezclabilidad profunda)*
 
 Este cruce de funcionalidades, se pueden considerar una **remezcla o remezcla profunda**, ya que no se trata de una simple superposición de elementos, sino de una integración funcional gracias al software. El usuario ya no lee un mapa: lo puede explora, lo puede manipular, puede actuar sobre él. El mapa se vuelve un interfaz interactivo que gana más importancia que el propio contenido que tiene como mapa.
@@ -61,7 +62,7 @@ Además, la aparición de funciones como el relleno automático por Inteligencia
 En conclusión, Adobe Photoshop no es solo una herramienta de edición visual, sino un dispositivo cultural que traduce, transforma y condiciona nuestras formas de ver y crear imágenes. De esta manera, Photoshop demuestra cómo el software puede convertirse en una fuerza modeladora de la cultura visual, estableciendo una comunicación directa entre el usuario y la máquina.
 
 ## Conclusiones
-
+Vivimos en una cultura hibrida, donde [Lev Manovich](https://es.wikipedia.org/wiki/Lev_Manovich) nos invita a ver el software como un lenguaje más, y no como simples herramientas de gran éxito. Una cultura digital que se construye mediante hibridación. Nos movemos por el mundo a través de interfaces, y lo representamos mediante algoritmos. Es el motor de la sociedad hoy en dia. Al final no se trata simplemente de usar el software, sino de pensar como el software.
 
 
 ## Referencias y Bibliografía
